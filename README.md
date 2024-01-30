@@ -5,9 +5,9 @@ Intereactive Dashboard : https://app.powerbi.com/reportEmbed?reportId=aa3c7b75-f
 
 Steps:
 •	Data Collection:   Scrapped all the data regarding match and world cup from www.espncricinfo.com and all details about players career from cricbuzz.com using Beautifull Soup library of Python.
-•	
-•	Data Transformation:   Performed initial data cleaning after scrapping such as player name correction, match id linking etc. using Pandas. Then, transformed the final data for dashboard using Power Query of Power BI
-.
+	
+•	Data Transformation:   Performed initial data cleaning after scrapping such as player name correction, match id linking etc. using Pandas. Then, transformed the final data for dashboard using Power Query of PowerBI
+
 •	Data Modelling:   Connected all the datasets with based on some defined primary keys sucha s team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dashboarding using DAX.
 
 •	Dashboarding : Craeted final dashboard using Power BI visuals.
